@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
+title: Moi et Moi
+description: Le reflet dans la glace, l'instant présent capturé dans une photo, les souvenirs remémorés des autres. Toutes ces choses qui correspondent à l'apparence et s'éloigne de ce que l'on ressentait à l'instant présent.
+keywords: Moi, Blog, Personnel, Histoire
+author: Moi
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://moietmoi.github.io/" # the base hostname & protocol for your site
