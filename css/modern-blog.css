@@ -106,6 +106,7 @@
 	margin: 0 auto;
 	padding: 25px 30px 100px;
 	color: #3b393d;
+	text-align: center;
 }
 
 .card__copy p:first-of-type {
