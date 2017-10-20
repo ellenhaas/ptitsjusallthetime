@@ -16,6 +16,7 @@ Je suis une femme vivant en 2017, avec mes joies, mes craintes, mes victoires, m
 
 ### Le deuxième moi
 Le deuxième Moi est celui que les autres voient. 
+Il n'est pas un autre Moi à part entière, mais il est une extension, un filtre, une vitrine.
 Celui qui se présente en société, celui qui fait la fête, celui qui console les autres, qui élève son enfant.
 Vous devez connaître le votre également. 
 Vous savez, celui qui sourit quand tout va mal. 
@@ -30,7 +31,7 @@ Il faut sans arrêt s'assurer que son visage est parfait.
 Il faut s'assurer que l'image que l'on donne aux autres est celle qu'ils attendent.
 Et c'est... fatiguant... épuisant... Mais dans certains cas indispensable.
 Pour moi ce travail est des fois très dur, et je ressens le besoin d'en parler.
-J'en parle des fois à mon conjoint, des fois à des ami mais ça ne redonne qu'une petite bouffée d'oxygène.
+J'en parle souvent à mon conjoint car il connait mon vrai Moi, des fois à des amis mais ça ne redonne qu'une petite bouffée d'oxygène.
 Des fois j'explose seule dans mon coin, j'hurle dans mon oreiller de toute mes forces, puis je pleure, puis j'embrasse à nouveau mon deuxième Moi pour me relever et continuer.
 
 ### Ce blog
