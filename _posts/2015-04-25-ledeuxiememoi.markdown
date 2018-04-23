@@ -3,7 +3,7 @@ title:  "Moi et moi"
 subtitle: "Pourquoi deux Moi ?"
 author: "Moi"
 avatar: "img/authors/moi.jpg"
-image: "img/1.jpg"
+image: "img/mirror-reflections.jpg"
 date:   2017-10-20 12:39:12
 ---
 
