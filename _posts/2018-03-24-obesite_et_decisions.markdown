@@ -2,8 +2,8 @@
 title:  "Le poids et moi"
 subtitle: "Prise de conscience et décisions"
 author: "Moi"
-avatar: "img/authors/weightloss.jpg"
-image: "img/1.jpg"
+avatar: "img/authors/moi.jpg"
+image: "img/weightloss.jpg"
 date:   2018-03-24 19:30:00
 ---
 
