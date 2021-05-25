@@ -4,4 +4,4 @@ description: Les Ptits Jus c'est Tout le Temps !
 keywords: Blog, Ptits Jus
 author: UneAmatriceDeJus
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://ellenhaas.github.io/ptitsjusallthetime.github.io" # the base hostname & protocol for your site
+url: "https://ellenhaas.github.io/ptitsjusallthetime/" # the base hostname & protocol for your site
