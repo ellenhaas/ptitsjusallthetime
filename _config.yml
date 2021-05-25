@@ -1,7 +1,7 @@
 # Site settings
-title: Moi et Moi
-description: Le reflet dans la glace, l'instant présent capturé dans une photo, les souvenirs remémorés des autres. Toutes ces choses qui correspondent à l'apparence et s'éloigne de ce que l'on ressentait à l'instant présent.
-keywords: Moi, Blog, Personnel, Histoire
-author: Moi
+title: TeamPtitsJusAllTheTime
+description: Les Ptits Jus c'est Tout le Temps !
+keywords: Blog, Ptits Jus
+author: UneAmatriceDeJus
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://moietmoi.github.io/" # the base hostname & protocol for your site
+url: "https://ptitsjusallthetime.github.io/" # the base hostname & protocol for your site
