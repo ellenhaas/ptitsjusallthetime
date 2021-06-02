@@ -2,8 +2,8 @@
 title:  "Violente attaque des lunchs !"
 subtitle: "La team des ptits jus pour les lunchs à frappé fort !"
 author: "UneAmatriceDeJus"
-avatar: "img/authors/red_alert.jpg"
-image: "img/jus.jpg"
+avatar: "img/authors/moi.jpg"
+image: "img/red_alert.jpg"
 date:   2021-06-02 14:01:30
 ---
 
